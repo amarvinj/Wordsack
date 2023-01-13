@@ -21,12 +21,11 @@ function HireExperts() {
   const { file, setFile } = useContext(HireExpertsContext);
   const { TranslationSelected } = useContext(TranslationContext);
 
-  const [page, setPage] = useState(1);
+  const [page, setPage] = useState(3);
   const [previousPage, setPreviousPage] = useState(0);
   const [progressBarClassName, setProgressBarClassName] = useState(
     "title-bar-progress-bar"
   );
-  const [limitAnimate, setLimitAnimate] = useState(false);
 
   const titleBarClassName = (pageNumber) => {
     if (pageNumber === page) {
