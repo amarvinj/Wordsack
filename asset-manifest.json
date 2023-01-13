@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Wordsack/static/css/main.afd91a1a.css",
+    "main.js": "/Wordsack/static/js/main.07b42503.js",
+    "static/js/236.13855618.chunk.js": "/Wordsack/static/js/236.13855618.chunk.js",
+    "static/js/703.faeb29ce.chunk.js": "/Wordsack/static/js/703.faeb29ce.chunk.js",
+    "static/js/18.fe97d11c.chunk.js": "/Wordsack/static/js/18.fe97d11c.chunk.js",
+    "static/media/sound.wav": "/Wordsack/static/media/sound.cdefec1f8acbc70ddea0.wav",
+    "static/media/wordsack.svg": "/Wordsack/static/media/wordsack.94d1af02227869b49222101c50ea5091.svg",
+    "index.html": "/Wordsack/index.html",
+    "main.afd91a1a.css.map": "/Wordsack/static/css/main.afd91a1a.css.map",
+    "main.07b42503.js.map": "/Wordsack/static/js/main.07b42503.js.map",
+    "236.13855618.chunk.js.map": "/Wordsack/static/js/236.13855618.chunk.js.map",
+    "703.faeb29ce.chunk.js.map": "/Wordsack/static/js/703.faeb29ce.chunk.js.map",
+    "18.fe97d11c.chunk.js.map": "/Wordsack/static/js/18.fe97d11c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afd91a1a.css",
+    "static/js/main.07b42503.js"
+  ]
+}
